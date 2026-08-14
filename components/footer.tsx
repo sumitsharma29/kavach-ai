@@ -13,10 +13,10 @@ export default function Footer() {
           <div className="col-span-2 md:col-span-1 space-y-4">
             <Link href="/" className="flex items-center gap-2.5 group w-fit">
               <div className="w-10 h-10 transition-all duration-300 group-hover:scale-110">
-                <img src="/logo.svg" alt="ScamSnipper Logo" className="w-full h-full object-contain" />
+                <img src="/logo.svg" alt="Kavach AI Logo" className="w-full h-full object-contain" />
               </div>
               <span className="font-bold text-xl text-white">
-                Scam<span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-cyan-400">Snipper</span>
+                Kavach<span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-cyan-400"> AI</span>
               </span>
             </Link>
             <p className="text-sm text-slate-500 leading-relaxed max-w-xs">
@@ -74,9 +74,9 @@ export default function Footer() {
             <h4 className="text-sm font-semibold text-white tracking-wider uppercase mb-5">Contact</h4>
             <ul className="space-y-3 text-sm">
               <li>
-                <a href="mailto:support@scamsnipper.ai" className="flex items-start gap-2.5 text-slate-500 hover:text-white transition-colors">
+                <a href="mailto:support@kavach.ai" className="flex items-start gap-2.5 text-slate-500 hover:text-white transition-colors">
                   <Mail className="w-4 h-4 mt-0.5 text-blue-400 flex-shrink-0" />
-                  <span>support@scamsnipper.ai</span>
+                  <span>support@kavach.ai</span>
                 </a>
               </li>
               <li>
@@ -99,7 +99,7 @@ export default function Footer() {
         <div className="border-t border-slate-800/50 pt-8">
           <div className="flex flex-col items-center gap-3 text-center">
             <p className="text-sm text-slate-500">
-              &copy; 2026 ScamSnipper AI. All rights reserved.
+              &copy; 2026 Kavach AI. All rights reserved.
             </p>
             <p className="text-sm text-slate-500">
               Developed with <span className="inline-block animate-heart-beat text-red-500">&#10084;</span> by Sumit Sharma

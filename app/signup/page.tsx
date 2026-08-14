@@ -48,7 +48,7 @@ export default function SignupPage() {
               <Shield className="w-7 h-7 text-white" />
             </div>
             <h1 className="text-2xl font-bold text-foreground">Create your account</h1>
-            <p className="text-sm text-muted-foreground mt-1">Join ScamSnipper to stay protected</p>
+            <p className="text-sm text-muted-foreground mt-1">Join Kavach AI to stay protected</p>
           </div>
 
           <div className="p-6 sm:p-8 rounded-2xl bg-card border border-border shadow-xl">

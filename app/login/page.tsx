@@ -40,7 +40,7 @@ export default function LoginPage() {
               <Shield className="w-7 h-7 text-white" />
             </div>
             <h1 className="text-2xl font-bold text-foreground">Welcome back</h1>
-            <p className="text-sm text-muted-foreground mt-1">Sign in to your ScamSnipper account</p>
+            <p className="text-sm text-muted-foreground mt-1">Sign in to your Kavach AI account</p>
           </div>
 
           <div className="p-6 sm:p-8 rounded-2xl bg-card border border-border shadow-xl">

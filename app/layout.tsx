@@ -8,9 +8,9 @@ import { AIAssistant } from "@/components/ai-assistant"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "ScamSnipper AI | Intelligent Fraud Detection",
+  title: "Kavach AI | Intelligent Fraud Detection",
   description: "Protecting your digital life with advanced AI-powered scam detection. Real-time analysis for URLs, messages, and calls.",
-  keywords: "scam detection, phishing protection, fraud prevention, AI security, ScamSnipper",
+  keywords: "scam detection, phishing protection, fraud prevention, AI security, Kavach AI, Kavach",
   icons: {
     icon: "/logo.svg",
     shortcut: "/logo.svg",
@@ -33,7 +33,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
       <head>
         <script
           dangerouslySetInnerHTML={{
-            __html: `try{if(localStorage.getItem('theme')==='dark'||(!localStorage.getItem('theme')&&window.matchMedia('(prefers-color-scheme:dark)').matches)){document.documentElement.classList.add('dark')}}catch(e){}`,
+            __html: `try{var t=localStorage.getItem('theme');if(t==='light'){document.documentElement.classList.remove('dark')}else{document.documentElement.classList.add('dark')}}catch(e){document.documentElement.classList.add('dark')}`,
           }}
         />
       </head>

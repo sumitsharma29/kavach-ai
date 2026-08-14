@@ -57,7 +57,7 @@ export default function Hero() {
             </h1>
 
             <p className="text-lg sm:text-xl text-slate-400 leading-relaxed max-w-xl">
-              ScamSnipper analyzes URLs, messages, calls, and images in real time to keep you safe from evolving online threats.
+              Kavach AI analyzes URLs, messages, calls, and images in real time to keep you safe from evolving online threats.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-3 pt-2">
@@ -94,7 +94,7 @@ export default function Hero() {
                   <div className="w-3 h-3 rounded-full bg-red-500/80" />
                   <div className="w-3 h-3 rounded-full bg-yellow-500/80" />
                   <div className="w-3 h-3 rounded-full bg-green-500/80" />
-                  <span className="text-xs text-slate-500 ml-2 font-mono">scamsnipper.ai/scanner</span>
+                  <span className="text-xs text-slate-500 ml-2 font-mono">kavach.ai/scanner</span>
                 </div>
                 {[
                   { label: "URL Analysis", status: "Safe", color: "text-emerald-400 bg-emerald-500/10" },

@@ -45,7 +45,7 @@ export default function Heatmap() {
   const [selected, setSelected] = useState<Region | null>(null)
 
   useEffect(() => {
-    const saved = localStorage.getItem("scamsnipper_reports")
+    const saved = localStorage.getItem("kavach_reports") || localStorage.getItem("scamsnipper_reports")
     if (saved) {
       setUserReports(JSON.parse(saved))
     }

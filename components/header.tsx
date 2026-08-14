@@ -60,10 +60,10 @@ export default function Header({ currentPage }: { currentPage?: string }) {
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2.5 flex-shrink-0 group">
           <div className="relative w-9 h-9 transition-all duration-300 group-hover:scale-110">
-            <img src="/logo.svg" alt="ScamSnipper Logo" className="w-full h-full object-contain" />
+            <img src="/logo.svg" alt="Kavach AI Logo" className="w-full h-full object-contain" />
           </div>
           <span className="hidden sm:block font-bold text-xl tracking-tight text-foreground">
-            Scam<span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-cyan-500 dark:from-blue-400 dark:to-cyan-400">Snipper</span>
+            Kavach<span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-cyan-500 dark:from-blue-400 dark:to-cyan-400"> AI</span>
           </span>
         </Link>
 

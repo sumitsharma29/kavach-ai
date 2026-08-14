@@ -9,7 +9,7 @@ const stats = [
 ]
 
 const testimonials = [
-  { quote: "ScamSnipper caught a phishing email that bypassed my corporate security filters. Incredible tool.", author: "Sarah J.", role: "Security Analyst" },
+  { quote: "Kavach AI caught a phishing email that bypassed my corporate security filters. Incredible tool.", author: "Sarah J.", role: "Security Analyst" },
   { quote: "The real-time SMS alerts saved my parents from a banking scam. This should be on every phone.", author: "Michael C.", role: "Software Engineer" },
   { quote: "Zero false positives in 6 months of daily use. Best security investment I've made.", author: "Emma R.", role: "Business Owner" },
 ]

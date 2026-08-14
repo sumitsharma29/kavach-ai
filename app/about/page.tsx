@@ -34,7 +34,7 @@ export default function About() {
               Building trust in a digital world
             </h1>
             <p className="text-lg text-slate-400 leading-relaxed">
-              ScamSnipper AI is on a mission to protect people from online fraud through advanced artificial intelligence and community collaboration.
+              Kavach AI is on a mission to protect people from online fraud through advanced artificial intelligence and community collaboration.
             </p>
           </div>
         </div>

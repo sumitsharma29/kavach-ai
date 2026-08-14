@@ -20,7 +20,7 @@ export default function CTASection() {
           Ready to outsmart scammers?
         </h2>
         <p className="text-lg text-slate-400 max-w-xl mx-auto leading-relaxed">
-          Join over 1 million users who trust ScamSnipper to protect them from phishing, fraud, and online scams.
+          Join over 1 million users who trust Kavach AI to protect them from phishing, fraud, and online scams.
         </p>
         <div className="flex flex-col sm:flex-row gap-3 justify-center pt-2">
           <Button

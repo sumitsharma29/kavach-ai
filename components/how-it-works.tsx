@@ -38,7 +38,7 @@ export default function HowItWorks() {
     <section className="py-20 px-4 sm:px-6 lg:px-8 bg-background">
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-16">
-          <h2 className="text-3xl sm:text-4xl font-bold mb-4">How ScamSnipper AI Works</h2>
+          <h2 className="text-3xl sm:text-4xl font-bold mb-4">How Kavach AI Works</h2>
           <p className="text-muted-foreground text-lg">
             Our advanced AI-powered platform protects you through a seamless, privacy-focused process
           </p>
@@ -63,7 +63,7 @@ export default function HowItWorks() {
 
         <div className="mt-12 text-center text-muted-foreground">
           <p className="text-sm leading-relaxed">
-            ScamSnipper AI continuously learns and adapts to new threats while keeping your data private and secure. All
+            Kavach AI continuously learns and adapts to new threats while keeping your data private and secure. All
             analysis happens locally on your device.
           </p>
         </div>
