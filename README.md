@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./public/logo.svg" width="100" height="100" alt="ScamSnipper Logo" />
+<img src="./public/logo.svg" width="100" height="100" alt="Kavach AI Logo" />
 
-# 🛡️ ScamSnipper AI
+# 🛡️ Kavach AI
 
 ### *Outsmart scams. Protect your digital life.*
 
@@ -30,7 +30,7 @@
 
 ---
 
-> **ScamSnipper AI** is an intelligent, real-time fraud detection platform built for India.  
+> **Kavach AI** is an intelligent, real-time fraud detection platform built for India.  
 > Analyze URLs, SMS, voice calls, and images — instantly, offline, and privately.
 
 </div>
@@ -76,7 +76,7 @@
 ## 🏗️ Project Structure
 
 ```
-scamsnipper/
+kavach-ai/
 ├── app/
 │   ├── about/          → About page
 │   ├── contact/        → Contact page
@@ -147,7 +147,7 @@ npm run start
 | `/dashboard` | Personal analytics & threat reports | ✅ |
 | `/profile` | User profile management | ✅ |
 | `/leaderboard` | Top scam reporters | ✅ |
-| `/about` | About ScamSnipper | ❌ |
+| `/about` | About Kavach AI | ❌ |
 | `/contact` | Contact & support | ❌ |
 | `/login` | Sign in | ❌ |
 | `/signup` | Create account | ❌ |
@@ -200,7 +200,7 @@ npm run start
 
 Made with ❤️ for a safer digital India
 
-**© 2026 ScamSnipper AI — All rights reserved**
+**© 2026 Kavach AI — All rights reserved**
 
 ⭐ *If this project helped you, consider giving it a star!* ⭐
 

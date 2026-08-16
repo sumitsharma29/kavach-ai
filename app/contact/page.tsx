@@ -21,7 +21,7 @@ export default function Contact() {
   }
 
   const contactCards = [
-    { icon: Mail, title: "Email", desc: "For general inquiries", value: "support@scamsnipper.ai", href: "mailto:support@scamsnipper.ai" },
+    { icon: Mail, title: "Email", desc: "For general inquiries", value: "support@kavach.ai", href: "mailto:support@kavach.ai" },
     { icon: Phone, title: "Phone", desc: "Mon-Fri, 9am-5pm IST", value: "+91 9826 46 XXXX", href: "tel:+919826461234" },
     { icon: MapPin, title: "Office", desc: "Anand Nagar, TIT College", value: "Bhopal - 462001, India", href: undefined },
   ]
